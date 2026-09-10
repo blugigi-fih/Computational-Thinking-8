@@ -1,0 +1,8 @@
+print("i like to mountain bike")
+print("i like to play lacrosse")
+print("i like to build stuff")
+print("i like to fish")
+their_name = input("whats your name")
+print (f"hi {their_name}")
+favorite_food = input("whats your favorite food")
+print (f"i like {favorite_food} too")
