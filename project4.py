@@ -4,7 +4,7 @@ history_grade = ("c")
 comp_grade = ("a")
 
 #loop for lines 7 to 20
-for i in range (10) :
+for i in range (6) :
     choice = input ("what do you want to check. grades homework or weekend schedule.")
 
     if choice == "grades":
@@ -23,4 +23,4 @@ print ("thank you your fee of 10 dollars will be sent to you shortly")
 print ("you should give me money")
 money = input ("how much money")
 if money > ("10"):
-    print ("hooray!")
+    print ("hooray!!!!")
